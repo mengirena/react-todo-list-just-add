@@ -1,4 +1,4 @@
-
+//destructure todo from the todo object
 const Todo = ({ todo }) => {
     return (
         <div>
